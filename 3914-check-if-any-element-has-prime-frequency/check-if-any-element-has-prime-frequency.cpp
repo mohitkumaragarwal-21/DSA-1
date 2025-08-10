@@ -25,7 +25,7 @@ public:
 
           for(auto num :mp)
           {
-             int n = num.first;
+             
              int freq = num.second;
 
              if(isPrime(freq))
