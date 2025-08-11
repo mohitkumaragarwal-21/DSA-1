@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> fairCandySwap(vector<int>& aliceSizes, vector<int>& bobSizes) {
-         vector<int>ans(2,0);
+         
          int sumOfAlice = 0;
          int sumOfBob = 0;
 
